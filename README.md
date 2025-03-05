@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am Samuel Michu 👋
 
 <!--
 **kidabg548/kidabg548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
